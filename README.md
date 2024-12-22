@@ -4,7 +4,7 @@ Version control also known as source code management is a process for tracking a
                                   # Git vs Github
 Git is a free open source version control system that you install locally on your computer to manage code changes, while github is a cloud based hosting service where you can store and share your git repositories.
 
-#Github alternatives:
+# Github alternatives:
 1. GitLab
 2. Bitbucket
 3. Azure DevOps
